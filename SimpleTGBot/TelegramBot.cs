@@ -9,6 +9,8 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 
+//Я использовал .NET 8.0, т.к. в рекомендованных в гайде версиях отсутствовали типы данных в InputFile, и бот не мог отправлять стикеры и фото
+
 public class TelegramBot
 {
     // Токен TG-бота. Можно получить у @BotFather
