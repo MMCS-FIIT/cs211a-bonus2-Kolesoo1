@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\projects\\bot\\cs211a-bonus2-kolesoo1\\simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\projects\\bot\\cs211a-bonus2-kolesoo1\\simpletgbot\\telegrambot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\telegrambot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\projects\\bot\\cs211a-bonus2-kolesoo1\\simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\projects\\bot\\cs211a-bonus2-kolesoo1\\simpletgbot\\animediscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\animediscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AnimeDiscriptions.cs",
+              "DocumentMoniker": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\SimpleTGBot\\AnimeDiscriptions.cs",
+              "RelativeDocumentMoniker": "SimpleTGBot\\AnimeDiscriptions.cs",
+              "ToolTip": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\SimpleTGBot\\AnimeDiscriptions.cs",
+              "RelativeToolTip": "SimpleTGBot\\AnimeDiscriptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:44:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TelegramBot.cs",
               "DocumentMoniker": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\SimpleTGBot\\TelegramBot.cs",
               "RelativeDocumentMoniker": "SimpleTGBot\\TelegramBot.cs",
               "ToolTip": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\SimpleTGBot\\TelegramBot.cs",
               "RelativeToolTip": "SimpleTGBot\\TelegramBot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T08:40:46.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Bot\\cs211a-bonus2-Kolesoo1\\SimpleTGBot\\Program.cs",
               "RelativeDocumentMoniker": "SimpleTGBot\\Program.cs",
