@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types;
 
-namespace ConsoleApp1
+namespace SimpleTGBot
 {
     internal class AnimeDiscriptions
     {
